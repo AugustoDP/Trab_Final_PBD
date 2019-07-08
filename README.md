@@ -22,8 +22,6 @@ Syntax highlighted code block
 2. List
 
 
-testetesteteste
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
